@@ -3,14 +3,17 @@ This is an C assignment in UoB. The goal is to create a paser and interpreter. T
 
 ## Parser
 Create a parser that could read a different formal grammar and check if it is correct.
+
 Files: parser, turtleP, test
 
 ## Interpreter
 The interpreter will understand what INSTRCTION means and executes. The output of the codes is via SDL.
+
 Files: interpreter, turtleI
 
 ## Extension
 In this section, I extended the formal grammar to provide more INSTRUCTIONs.
+
 Files: extension, turtleE
 
 # Formal Grammar
