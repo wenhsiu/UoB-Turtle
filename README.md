@@ -59,7 +59,7 @@ Files: extension, turtleE
 	}
 }
 ```
-(Test1.png)
+[img](Test1.png)
 
 ```
 {
@@ -73,7 +73,7 @@ Files: extension, turtleE
 	}
 }
 ```
-(Test2.png)
+[img](Test2.png)
 
 ```
 {
@@ -183,6 +183,6 @@ Files: extension, turtleE
 	FD 20
 }
 ```
-(Test3.png)
+[img](Test3.png)
 
 
